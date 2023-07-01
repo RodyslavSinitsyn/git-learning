@@ -2,4 +2,4 @@
 // here some todo
 console.log('feature xyz!')
 
-alert('feature!')
+alert('i am main!')
