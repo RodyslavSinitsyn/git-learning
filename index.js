@@ -1,2 +1,2 @@
 console.log("hello git");
-console.log("git is cool");
+console.log("git is cool feature!");
